@@ -1,6 +1,13 @@
-package modelo;
+package controlador;
 
 import java.util.Vector;
+
+import modelo.ComparativaPrecio;
+import modelo.OrdenDeCompra;
+import modelo.PedidoDeCompra;
+import modelo.Proveedor;
+import modelo.RemitoOV;
+import modelo.Rodamiento;
 
 public class CasaCentral {
 
